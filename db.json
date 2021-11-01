@@ -1,0 +1,7 @@
+{
+  "type" : "mysql",
+  "host" : "zhqn.com",
+  "port" : 3306,
+  "username": "demo",
+  "password": "demo"
+}
